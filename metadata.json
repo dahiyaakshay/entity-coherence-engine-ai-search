@@ -1,0 +1,4 @@
+{
+  "name": "Local Entity Audit Tool",
+  "description": "A locally hosted tool to audit and compare content entities against competitors using Python spaCy and PostgreSQL."
+}
